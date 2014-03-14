@@ -430,8 +430,8 @@ t1394756733
 s182
 
 N/Users/ritashugisha/Google Drive/GitHub/GlyphSetup/GlyphSetup/main.m
-c000000005322960400000000000007C9
-t1394775556
+c000000005322968D00000000000007C9
+t1394775693
 s1993
 
 N/Users/ritashugisha/Google Drive/GitHub/GlyphSetup/build/GlyphSetup.build/Release/GlyphSetup.build/Objects-normal/x86_64/AlfredAnalytics.o
@@ -444,15 +444,15 @@ t1394774751
 s267
 
 N/Users/ritashugisha/Google Drive/GitHub/GlyphSetup/build/GlyphSetup.build/Release/GlyphSetup.build/Objects-normal/x86_64/main.o
-t1394775666
+t1394775693
 s10400
 
 N/Users/ritashugisha/Google Drive/GitHub/GlyphSetup/build/Release/GlyphSetup
-t1394775666
+t1394775693
 s21896
 
 N/Users/ritashugisha/Google Drive/GitHub/GlyphSetup/build/Release/GlyphSetup.dSYM
-t1394775520
+t1394775666
 s102
 
 N/var/folders/0b/xrlqq8cj693d0zjxh7xvvy6c0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/GlyphSetup-Prefix-emwxcnwuyxkstudukdkhvzlqwbyh/GlyphSetup-Prefix.pch.pch
@@ -465,7 +465,7 @@ s123512
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese258d3f2cdd2b841^446cdcf2cdd2b841^---0#1#1#--18"Check dependencies36"24C9DE90-06EF-4650-B9AD-ADE1CAA0BA54-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies645b026bd2d2b841^c078326bd2d2b841^---0#1#1#--18"Check dependencies36"68AE6B92-01B2-4B35-A27C-CDE4B3FBD645-
 
 CCompileC build/GlyphSetup.build/Release/GlyphSetup.build/Objects-normal/x86_64/AlfredAnalytics.o /Users/ritashugisha/Desktop/GlyphSetup/GlyphSetup/AlfredAnalytics.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s416467117.890247
@@ -542,14 +542,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Generat
 bC7B4DDC5-325A-4522-A4A4-6C36F96094D8
 
 CGenerateDSYMFile /Users/ritashugisha/Google\ Drive/GitHub/GlyphSetup/build/Release/GlyphSetup.dSYM /Users/ritashugisha/Google\ Drive/GitHub/GlyphSetup/build/Release/GlyphSetup
-s416468466.958987
-e416468466.984948
+s416469611.201407
+e416469611.218469
 r1
 xGenerateDSYMFile
 x/Users/ritashugisha/Google Drive/GitHub/GlyphSetup/build/Release/GlyphSetup.dSYM
 x/Users/ritashugisha/Google Drive/GitHub/GlyphSetup/build/Release/GlyphSetup
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Generate /Users/ritashugisha/Google Drive/GitHub/GlyphSetup/build/Release/GlyphSetup.dSYM87"[1mGenerateDSYMFile[0m [1mbuild/Release/GlyphSetup.dSYM[0m build/Release/GlyphSetupc68bf5f2cdd2b841^1426fcf2cdd2b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/ritashugisha/Google%20Drive/GitHub/GlyphSetup/build/Release/GlyphSetup.dSYM/0000000000000000^410"[1mGenerateDSYMFile[0m [1mbuild/Release/GlyphSetup.dSYM[0m build/Release/GlyphSetup    cd "/Users/ritashugisha/Google Drive/GitHub/GlyphSetup"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/ritashugisha/Google\ Drive/GitHub/GlyphSetup/build/Release/GlyphSetup -o /Users/ritashugisha/Google\ Drive/GitHub/GlyphSetup/build/Release/GlyphSetup.dSYM36"EDE75E0E-2ADA-49D3-9A0F-C18669119BDA-
-bA4D1AA3E-7661-4A56-B776-A0EE03BBAFD9
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Generate /Users/ritashugisha/Google Drive/GitHub/GlyphSetup/build/Release/GlyphSetup.dSYM87"[1mGenerateDSYMFile[0m [1mbuild/Release/GlyphSetup.dSYM[0m build/Release/GlyphSetup0da8336bd2d2b841^a6ed376bd2d2b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/ritashugisha/Google%20Drive/GitHub/GlyphSetup/build/Release/GlyphSetup.dSYM/0000000000000000^410"[1mGenerateDSYMFile[0m [1mbuild/Release/GlyphSetup.dSYM[0m build/Release/GlyphSetup    cd "/Users/ritashugisha/Google Drive/GitHub/GlyphSetup"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/ritashugisha/Google\ Drive/GitHub/GlyphSetup/build/Release/GlyphSetup -o /Users/ritashugisha/Google\ Drive/GitHub/GlyphSetup/build/Release/GlyphSetup.dSYM36"29AF9D96-2437-452C-A537-9F245B4B8C68-
+b73529D0F-DF43-4C02-A625-018096194EC2
 
 CLd /Users/ritashugisha/Desktop/GlyphSetup/build/Release/GlyphSetup normal x86_64
 s416467117.991099
