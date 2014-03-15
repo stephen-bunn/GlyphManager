@@ -13,7 +13,7 @@
 
 int main(int argc, const char * argv[]) {
     NSString *usage = @"usage: GlyphSetup: [-h] [-dark DARK] [-light LIGHT]\n";
-    NSString *help = @"\n\u00A9 2014 Ritashugisha. GlyphSetup\nAlfred App workflow glyph utility.\nExchanges dark and light icons according to the current theme in use.\n\nArguments:\n\t-light [light icon suffix]\n\t-dark [dark icon suffix]\n\nExample: ./GlyphSetup -light -light -dark -dark\n\nIMPORTANT:\n\tThe dark and light suffixes used for your icons will be constant\n(https://github.com/Ritashugisha/GlyphSetup/blob/master/README.md)\n\n";
+    NSString *help = @"\u00A9 2014 Ritashugisha. GlyphSetup\nAlfred App workflow glyph utility.\nExchanges dark and light icons according to the current theme in use.\n\nArguments:\n\t-light [light icon suffix]\n\t-dark [dark icon suffix]\n\nExample: ./GlyphSetup -light -light -dark -dark\n\nIMPORTANT:\n\tThe dark and light suffixes used for your icons will be constant\n(https://github.com/Ritashugisha/GlyphSetup/blob/master/README.md)\n";
     NSString *darkPostfix;
     NSString *lightPostfix;
     @autoreleasepool {
