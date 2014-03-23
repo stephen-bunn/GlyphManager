@@ -23,6 +23,26 @@ int main(int argc, const char * argv[]) {
             [object onOutput:help];
             [[NSApplication sharedApplication] terminate:nil];
         }
+        if ([commandLine containsObject:@"--get-prefpath"]) {
+            [object onOutput:[NSString stringWithFormat:@"%@\n", [object getSyncPath]]];
+            [[NSApplication sharedApplication] terminate:nil];
+        }
+        if ([commandLine containsObject:@"--get-themename"]) {
+            [object onOutput:[NSString stringWithFormat:@"%@\n", [object getThemeName]]];
+            [[NSApplication sharedApplication] terminate:nil];
+        }
+        if ([commandLine containsObject:@"--get-themecolor"]) {
+            NSString *stringColor = @"theme.light\n";
+            if ([object isThemeDark]) {
+                stringColor = @"theme.dark\n";
+            }
+            [object onOutput:stringColor];
+            [[NSApplication sharedApplication] terminate:nil];
+        }
+        if ([commandLine containsObject:@"--get-theme"]) {
+            [object onOutput:[NSString stringWithFormat:@"%@\n", [object getCurrentTheme]]];
+            [[NSApplication sharedApplication] terminate:nil];
+        }
         if ([commandLine containsObject:@"-dark"] && [commandLine containsObject:@"-light"] && (([commandLine indexOfObject:@"-dark"] - [commandLine indexOfObject:@"-light"] == 2) || ([commandLine indexOfObject:@"-light"] - [commandLine indexOfObject:@"-dark"] == 2)) && [commandLine count] > 4) {
             darkPostfix = commandLine[[commandLine indexOfObject:@"-dark"] + 1];
             lightPostfix = commandLine[[commandLine indexOfObject:@"-light"] + 1];
