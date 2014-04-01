@@ -1,0 +1,212 @@
+TGlyphManager
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/0b/xrlqq8cj693d0zjxh7xvvy6c0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/GlyphManager-Prefix-ehgcnkdclmvqyehjjiubgabrlvzr/GlyphManager-Prefix.pch.pch GlyphManager/GlyphManager-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/AlfredAnalytics.o /Users/ritashugisha/Desktop/GlyphManager/GlyphManager/AlfredAnalytics.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/main.o /Users/ritashugisha/Desktop/GlyphManager/GlyphManager/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ritashugisha/Desktop/GlyphManager/build/Release/GlyphManager normal x86_64
+cGenerateDSYMFile /Users/ritashugisha/Desktop/GlyphManager/build/Release/GlyphManager.dSYM /Users/ritashugisha/Desktop/GlyphManager/build/Release/GlyphManager
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000530295C100000000000000AA
+t1392678337
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000053214BA6000000000000044C
+t1394690982
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053214BA600000000000001DE
+t1394690982
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000053214BA8000000000000253C
+t1394690984
+s9532
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053214BA900000000000C9E38
+t1394690985
+s826936
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053214C160000000000000ADC
+t1394691094
+s2780
+
+N/Users/ritashugisha/Desktop/GlyphManager/GlyphManager/AlfredAnalytics.m
+c00000000533A858B0000000000002C2D
+t1396344203
+s11309
+
+N/Users/ritashugisha/Desktop/GlyphManager/GlyphManager/GlyphManager-Prefix.pch
+c000000005330AE4400000000000000B6
+t1395699268
+s182
+
+N/Users/ritashugisha/Desktop/GlyphManager/GlyphManager/main.m
+c00000000533A86910000000000000EAE
+t1396344465
+s3758
+
+N/Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/AlfredAnalytics.o
+t1396344481
+s50824
+
+N/Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/GlyphManager.LinkFileList
+c00000000533A869C00000000000000FF
+t1396344476
+s255
+
+N/Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/main.o
+t1396344481
+s16348
+
+N/Users/ritashugisha/Desktop/GlyphManager/build/Release/GlyphManager
+t1396344481
+s28128
+
+N/Users/ritashugisha/Desktop/GlyphManager/build/Release/GlyphManager.dSYM
+t2
+s0
+
+N/var/folders/0b/xrlqq8cj693d0zjxh7xvvy6c0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/GlyphManager-Prefix-ehgcnkdclmvqyehjjiubgabrlvzr/GlyphManager-Prefix.pch.pch
+t1395702594
+s123412
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese081391cbeeab841^82ffe11cbeeab841^---0#1#1#--18"Check dependencies36"0502A26F-06B3-4D97-BE16-7CB0D6B99E28-
+
+CCompileC build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/AlfredAnalytics.o /Users/ritashugisha/Desktop/GlyphManager/GlyphManager/AlfredAnalytics.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418037276.885585
+e418037281.190992
+r1
+xCompileC
+xbuild/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/AlfredAnalytics.o
+x/Users/ritashugisha/Desktop/GlyphManager/GlyphManager/AlfredAnalytics.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ritashugisha/Desktop/GlyphManager/GlyphManager/AlfredAnalytics.m
+d/Users/ritashugisha/Desktop/GlyphManager/GlyphManager/AlfredAnalytics.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/ritashugisha/Desktop/GlyphManager/GlyphManager/AlfredAnalytics.m217"[1mCompileC[0m build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/AlfredAnalytics.o [1mGlyphManager/AlfredAnalytics.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf9dbe21cbeeab841^b8e43021beeab841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/ritashugisha/Desktop/GlyphManager/GlyphManager/AlfredAnalytics.m0000000000000000^3282"[1mCompileC[0m build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/AlfredAnalytics.o [1mGlyphManager/AlfredAnalytics.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ritashugisha/Desktop/GlyphManager    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/GlyphManager-generated-files.hmap -I/Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/GlyphManager-own-target-headers.hmap -I/Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/GlyphManager-all-target-headers.hmap -iquote /Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/GlyphManager-project-headers.hmap -I/Users/ritashugisha/Desktop/GlyphManager/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/DerivedSources/x86_64 -I/Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/DerivedSources -F/Users/ritashugisha/Desktop/GlyphManager/build/Release -include /var/folders/0b/xrlqq8cj693d0zjxh7xvvy6c0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/GlyphManager-Prefix-ehgcnkdclmvqyehjjiubgabrlvzr/GlyphManager-Prefix.pch -MMD -MT dependencies -MF /Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/AlfredAnalytics.d --serialize-diagnostics /Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/AlfredAnalytics.dia -c /Users/ritashugisha/Desktop/GlyphManager/GlyphManager/AlfredAnalytics.m -o /Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/AlfredAnalytics.o36"1A3C8F8E-144D-4C86-AFB4-64E6F1B01127-
+bDD74EC8B-D4E9-4DA4-A4F3-D4062634FE93
+
+CCompileC build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/main.o /Users/ritashugisha/Desktop/GlyphManager/GlyphManager/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418037276.885731
+e418037281.102352
+r1
+xCompileC
+xbuild/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/main.o
+x/Users/ritashugisha/Desktop/GlyphManager/GlyphManager/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ritashugisha/Desktop/GlyphManager/GlyphManager/main.m
+d/Users/ritashugisha/Desktop/GlyphManager/GlyphManager/AlfredAnalytics.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/ritashugisha/Desktop/GlyphManager/GlyphManager/main.m195"[1mCompileC[0m build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/main.o [1mGlyphManager/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc6dbe21cbeeab841^44341a21beeab841^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/ritashugisha/Desktop/GlyphManager/GlyphManager/main.m0000000000000000^3216"[1mCompileC[0m build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/main.o [1mGlyphManager/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ritashugisha/Desktop/GlyphManager    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/GlyphManager-generated-files.hmap -I/Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/GlyphManager-own-target-headers.hmap -I/Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/GlyphManager-all-target-headers.hmap -iquote /Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/GlyphManager-project-headers.hmap -I/Users/ritashugisha/Desktop/GlyphManager/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/DerivedSources/x86_64 -I/Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/DerivedSources -F/Users/ritashugisha/Desktop/GlyphManager/build/Release -include /var/folders/0b/xrlqq8cj693d0zjxh7xvvy6c0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/GlyphManager-Prefix-ehgcnkdclmvqyehjjiubgabrlvzr/GlyphManager-Prefix.pch -MMD -MT dependencies -MF /Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/main.dia -c /Users/ritashugisha/Desktop/GlyphManager/GlyphManager/main.m -o /Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/main.o36"FDFCFD52-D757-45D8-A084-6A0DE024F79F-
+bDD74EC8B-D4E9-4DA4-A4F3-D4062634FE93
+
+CGenerateDSYMFile /Users/ritashugisha/Desktop/GlyphManager/build/Release/GlyphManager.dSYM /Users/ritashugisha/Desktop/GlyphManager/build/Release/GlyphManager
+s418037281.828335
+e418037281.954060
+r1
+xGenerateDSYMFile
+x/Users/ritashugisha/Desktop/GlyphManager/build/Release/GlyphManager.dSYM
+x/Users/ritashugisha/Desktop/GlyphManager/build/Release/GlyphManager
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Generate /Users/ritashugisha/Desktop/GlyphManager/build/Release/GlyphManager.dSYM91"[1mGenerateDSYMFile[0m [1mbuild/Release/GlyphManager.dSYM[0m build/Release/GlyphManager7218d421beeab841^cd3df421beeab841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/ritashugisha/Desktop/GlyphManager/build/Release/GlyphManager.dSYM0034540addffdf42^384"[1mGenerateDSYMFile[0m [1mbuild/Release/GlyphManager.dSYM[0m build/Release/GlyphManager    cd /Users/ritashugisha/Desktop/GlyphManager    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/ritashugisha/Desktop/GlyphManager/build/Release/GlyphManager -o /Users/ritashugisha/Desktop/GlyphManager/build/Release/GlyphManager.dSYM36"F9123B45-EAE8-4744-BF34-0F01831E8D3A-
+bDD74EC8B-D4E9-4DA4-A4F3-D4062634FE93
+
+CLd /Users/ritashugisha/Desktop/GlyphManager/build/Release/GlyphManager normal x86_64
+s418037281.209729
+e418037281.827671
+r1
+xLd
+x/Users/ritashugisha/Desktop/GlyphManager/build/Release/GlyphManager
+xnormal
+xx86_64
+d/Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/GlyphManager.LinkFileList
+d/Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/AlfredAnalytics.o
+d/Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOSurface.framework/IOSurface
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/DiskArbitration.framework/DiskArbitration
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/CoreImage.framework/Versions/A/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/ScalableUserInterface.framework/Versions/A/ScalableUserInterface
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Link /Users/ritashugisha/Desktop/GlyphManager/build/Release/GlyphManager51"[1mLd[0m build/Release/GlyphManager normal x86_64f3c63521beeab841^c5e2d321beeab841^---0#0#1#--975"[1mLd[0m build/Release/GlyphManager normal x86_64    cd /Users/ritashugisha/Desktop/GlyphManager    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/ritashugisha/Desktop/GlyphManager/build/Release -F/Users/ritashugisha/Desktop/GlyphManager/build/Release -filelist /Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/GlyphManager.LinkFileList -mmacosx-version-min=10.9 -fobjc-arc -fobjc-link-runtime -framework Cocoa -framework Foundation -Xlinker -dependency_info -Xlinker /Users/ritashugisha/Desktop/GlyphManager/build/GlyphManager.build/Release/GlyphManager.build/Objects-normal/x86_64/GlyphManager_dependency_info.dat -o /Users/ritashugisha/Desktop/GlyphManager/build/Release/GlyphManager36"786F1F68-7238-4823-B8F9-2867DC44536F-
+bDD74EC8B-D4E9-4DA4-A4F3-D4062634FE93
+
+CProcessPCH /var/folders/0b/xrlqq8cj693d0zjxh7xvvy6c0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/GlyphManager-Prefix-ehgcnkdclmvqyehjjiubgabrlvzr/GlyphManager-Prefix.pch.pch GlyphManager/GlyphManager-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+

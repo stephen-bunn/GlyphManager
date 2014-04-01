@@ -1,32 +1,42 @@
-#GlyphSetup<sub>(v1.0a)</sub>
+#GlyphManager<sub>(v1.2a)</sub>
 --
 ###Alfred App workflow glyph utility
 
 _This utility exchanges dark and light icons according to the current theme in use._
 
 ######Usage
-`usage: GlyphSetup: [-h] [-dark DARK] [-light LIGHT]`
+`usage: GlyphManager: [-h] [-dark DARK] [-light LIGHT]`
 	
-	(c) 2014 Ritashugisha. GlyphSetup
-	Alfred App workflow glyph utility.
-	Exchanges dark and light icons according to the current theme in use.
+    (C) 2014 Ritashugisha. GlyphManager
+    Alfred App workflow glyph utility.
+    Exchanges dark and light icons according to the current theme in use.
+    
+    Arguments:
+	    -light		[light icon suffix]
+	    -dark		[dark icon suffix]
+	    --suppress	[suppress warnings]
+    
+    Other Arguments:
+	    --get-prefpath
+	    --get-themes
+	    --get-currenttheme
+	    --get-themename
+	    --get-alfredprefs
+	    --get-appearanceprefs
+	    --get-themecolor
+    
+    Example: ./GlyphManager -light -light -dark -dark
 
-	Arguments:
-		-light [light icon suffix]
-		-dark [dark icon suffix]
+IMPORTANT:
+	The dark and light suffixes used for your icons will be constant
+(https://github.com/Ritashugisha/GlyphManager/blob/master/README.md)
 
-	Example: ./GlyphSetup -light -light -dark -dark
-
-	IMPORTANT:
-		The dark and light suffixes used for your icons will be constant
-	(https://github.com/Ritashugisha/GlyphSetup/blob/master/README.md)
-
->When GlyphSetup is run it will first determine if the current theme in Alfred is dark or light. If the theme is dark, GlyphSetup will look for icons within the current directory and any subdirectories with the `-light` tag. If GlyphSetup decides to exchange your icons, it will take all icons with no tag and change them to have the `-dark` tag. It will finally take all icons with the `-light` tag and set them as the icons with no tag. This allows easy exchange to and from dark and light icons within workflows.
+>When GlyphManager is run it will first determine if the current theme in Alfred is dark or light. If the theme is dark, GlyphManager will look for icons within the current directory and any subdirectories with the `-light` tag. If GlyphManager decides to exchange your icons, it will take all icons with no tag and change them to have the `-dark` tag. It will finally take all icons with the `-light` tag and set them as the icons with no tag. This allows easy exchange to and from dark and light icons within workflows.
 
 ######PACKAGE DETAILS
 Author | Contact | Package | Version
 :---: | :---: | :---: | :---:
-Ritashugisha | ritashugisha@gmail.com | co.nf.ritashugisha.__GlyphSetup__ | v1.0a
+Ritashugisha | ritashugisha@gmail.com | co.nf.ritashugisha.__GlyphManager__ | v1.2a
 
 ######License
 
